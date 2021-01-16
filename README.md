@@ -3,7 +3,14 @@
 
 # Your Project Title Here
 
-*TODO:* Write an overview to your project.
+As part of Udacity  Machine Learning with Microsoft Azure Nano Degree program, we have to submit two projects to demonstarte operationalizing of Machine Learning pipeline. 
+
+We have performed two experiments: 
+
+i) Creating and operationalizng a pipeline using AutoML and Studio interface
+
+ii) Creating and operationalizng a pipeline using Python SDK inteface.
+
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
