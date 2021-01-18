@@ -13,4 +13,4 @@ ii) Creating and operationalizing a pipeline using Python SDK interface.
 
 ##EXPERIMENT 1: PIPELINE AUTOMATION USING AUTOMATED ML AND STUDIO INTERFACE 
 
-(https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/1.PNG)
+!(https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/1.PNG)
