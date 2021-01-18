@@ -1,6 +1,4 @@
-## Your Project Title Here
-
-###Operationalizing Machine Leaning Pipeline
+## Project Title: Operationalizing Machine Leaning Pipeline
 
 As part of Udacity Machine Learning with Microsoft Azure Nano Degree program, we have to submit two projects to demonstrate operationalizing of Machine Learning pipeline. 
 
