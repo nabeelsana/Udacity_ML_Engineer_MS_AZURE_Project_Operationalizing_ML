@@ -23,3 +23,5 @@ EXPERIMENT 2: PIPELINE AUTOMATION USING AZURE SDK
 ![PLA2](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/2.PNG)
 
 ## Key Steps
+
+![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/3.PNG)
