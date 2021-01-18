@@ -7,3 +7,8 @@ We have performed two experiments:
 i) Creating and operationalizing a pipeline using AutoML and Studio interface
 
 ii) Creating and operationalizing a pipeline using Python SDK interface.
+
+
+## Architectural Diagram
+
+##EXPERIMENT 1: PIPELINE AUTOMATION USING AUTOMATED ML AND STUDIO INTERFACE 
