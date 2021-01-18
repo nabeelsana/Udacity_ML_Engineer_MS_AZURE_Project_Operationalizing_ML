@@ -9,7 +9,7 @@ i) Creating and operationalizing a pipeline using AutoML and Studio interface
 ii) Creating and operationalizing a pipeline using Python SDK interface.
 
 ## Screen Recording
-[Link to Screen Cast on Youtube!](https://www.youtube.com/watch?v=eI8ORMZt8Qc)
+[Link to Screen Cast on Youtube!](https://www.youtube.com/watch?v=D8KvGWe-mns)
 
 
 ## Architectural Diagram
