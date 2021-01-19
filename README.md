@@ -10,6 +10,16 @@ ii) Creating and operationalizing a pipeline using Python SDK interface.
 
 ####Future improvement in the project
 
+We can suggest following improvments that may result in better model or faster model deployment: 
+
+i) Use more powerful computer cluster such as GPU instanced with more nodes. This may enable increase in concurrent iterations.
+
+ii) Data has class imbalance with many more rejections then approvals. We might address it by procuring more data. 
+
+iii) We need to access Classifiers that AutoML has not tested. We might further wish to train our data  using those model by using hyperdrive run and experiment with a different set of parameters.
+
+
+
 ## Screen Recording
 [Link to Screen Cast on Youtube!](https://www.youtube.com/watch?v=D8KvGWe-mns)
 
