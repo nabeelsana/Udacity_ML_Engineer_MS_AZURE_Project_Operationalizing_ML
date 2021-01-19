@@ -60,6 +60,11 @@ However we kept Application Insight disabled. As will be enable it in next step.
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/7.PNG)
 
+In order to enable Application Insight service we downloaded Config.Json file into local directory. This file is available from 
+Studio. We then used script logs.py which executed command to enable Application Insight. We ran it using GitBash facility.
+Once it ran successfully it generated logs. We view in the studio interface to confirm that Application Insight was enabled.
+In the screen shot below, there is Application Insight link and we have also include screen shot to show how it looks.
+
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/8.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/9.PNG)
