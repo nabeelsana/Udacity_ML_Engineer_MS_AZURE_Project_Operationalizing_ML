@@ -55,6 +55,9 @@ VotingEnsemble with 94.7% score of AUC_Weighted metric.  Next few screen shots s
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/6.PNG)
 
+We selected best model and deployed it using Azure Container Instance with Authentication enabled. However we kept Application
+Insight disabled. As will be enable it in next step.
+
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/7.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/8.PNG)
