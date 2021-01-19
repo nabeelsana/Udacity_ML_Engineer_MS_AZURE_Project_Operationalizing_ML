@@ -10,7 +10,7 @@ ii) Creating and operationalizing a pipeline using Python SDK interface.
 
 We then published best models obtained. Publishing the model provided a REST endpoint and primary key which enables usto rerun the pipeline using HTTP library. 
 
-We then consumed model using Swagger. Once the model was deployed we used a python script to interact with it using a python script by providing URI and primary key. Model end point returned output in expected format so we were sure that our deployment was successful.
+We then consumed model using Swagger service. Once the model was deployed we used a python script to interact with the endpoint using a python script by providing URI and primary key. Model end point returned output in expected format so we were sure that our deployment was successful.
 
 
 ##Future improvement in the project
