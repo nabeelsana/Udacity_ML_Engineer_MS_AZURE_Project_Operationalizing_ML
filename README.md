@@ -69,6 +69,8 @@ In the screen shot below, there is Application Insight link and we have also inc
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/9.PNG)
 
+Next 2 screen shots are showing contents of logs.py file and logs that were generated on successful run of logs.py file.
+
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/10.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/11.PNG)
