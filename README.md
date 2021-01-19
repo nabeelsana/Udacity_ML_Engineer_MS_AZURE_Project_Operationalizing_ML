@@ -77,6 +77,12 @@ Next 2 screen shots are showing contents of logs.py file and logs that were gene
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/12.PNG)
 
+Deployed model contained link to Swagger URI (see screen shot for step 4). We downloaded it and saved as Swagger.json file. 
+It was contained in same folder as swagger.sh and serve.sh files. Swagger.sh deployed dockers container where as serve.py file 
+made the service avialable on local port (we selected 9002 port).
+
+Next two screen shots evidence running of these files
+
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/13.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/14.PNG)
