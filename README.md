@@ -114,6 +114,8 @@ We then publisehd our pipelines, which provided us with REST end point to enable
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/24.PNG)
 
+Screen shot is showing Best model trained after running the AutoML.
+
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/25.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/26.PNG)
