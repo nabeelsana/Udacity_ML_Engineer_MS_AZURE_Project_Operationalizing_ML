@@ -8,7 +8,12 @@ i) Creating and operationalizing a pipeline using AutoML and Studio interface
 
 ii) Creating and operationalizing a pipeline using Python SDK interface.
 
-####Future improvement in the project
+We then published best models obtained. Publishing the model provided a REST endpoint and primary key which enables usto rerun the pipeline using HTTP library. 
+
+We then consumed model using Swagger. Once the model was deployed we used a python script to interact with it using a python script by providing URI and primary key. Model end point returned output in expected format so we were sure that our deployment was successful.
+
+
+##Future improvement in the project
 
 We can suggest following improvments that may result in better model or faster model deployment: 
 
@@ -16,7 +21,7 @@ i) Use more powerful computer cluster such as GPU instanced with more nodes. Thi
 
 ii) Data has class imbalance with many more rejections then approvals. We might address it by procuring more data. 
 
-iii) We need to access Classifiers that AutoML has not tested. We might further wish to train our data  using those model by using hyperdrive run and experiment with a different set of parameters.
+iii) We need to assess Classifiers that AutoML has not tested and hyperparameters that are not configured. We might further wish to train our data  using those model and parameters by using hyperdrive run and experiment with a different set of parameters.
 
 
 
