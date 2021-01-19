@@ -45,6 +45,8 @@ Experiment 1: PIPELINE AUTOMATION USING AUTOMATED ML AND STUDIO INTERFACE
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/3.PNG)
 
+We used Studio inteface and ran AutoML to train models on bank marketing data set. 
+
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/4.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/5.PNG)
