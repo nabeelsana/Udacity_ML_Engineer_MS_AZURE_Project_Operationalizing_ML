@@ -44,7 +44,6 @@ EXPERIMENT 2: PIPELINE AUTOMATION USING AZURE SDK
 Experiment 1: PIPELINE AUTOMATION USING AUTOMATED ML AND STUDIO INTERFACE
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/3.PNG)
-
 We used Studio inteface and ran AutoML to train models on bank marketing data set. We have shown that data set was registered. 
 Once the experiment run completed, we viewed the Details tab, this tab had detail of best model trained. In this case it was 
 VotingEnsemble with 94.7% score of AUC_Weighted metric.  Next few screen shots show these steps with headings
@@ -52,14 +51,12 @@ VotingEnsemble with 94.7% score of AUC_Weighted metric.  Next few screen shots s
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/4.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/5.PNG)
-
 In the next step, We selected best model and deployed it using Azure Container Instance with Authentication enabled. 
 However we kept Application Insight disabled. As will be enable it in next step.
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/6.PNG)
 
 ![](https://github.com/nabeelsana/Udacity_ML_Engineer_MS_AZURE_Project_Operationalizing_ML/blob/master/starter_files/7.PNG)
-
 In order to enable Application Insight service we downloaded Config.Json file into local directory. This file is available from 
 Studio. We then used script logs.py which executed command to enable Application Insight. We ran it using GitBash facility.
 Once it ran successfully it generated logs. We view in the studio interface to confirm that Application Insight was enabled.
