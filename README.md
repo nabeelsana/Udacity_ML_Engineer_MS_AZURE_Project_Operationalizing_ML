@@ -108,7 +108,7 @@ Screen shot shows that on running serve.py file, model end point send back respo
 We deployed AutoML using AZURE SDK inteface. We used Jupyter Note book provided and completed different cells to create and 
 attach compute cluster, imported resgistered dataset, configre AutoML settings and configurations, setup and submit the 
 pipeline run. On completion of experiment we retrieved metrics of all model runs and then retireved the best fitted model. 
-We tested our best model using test data. 
+We tested our best model using test data.
 
 We then publisehd our pipelines, which provided us with REST end point to enable rerunning the pipeline from HTTP.
 
